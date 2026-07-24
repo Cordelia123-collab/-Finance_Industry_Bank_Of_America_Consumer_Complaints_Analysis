@@ -28,7 +28,7 @@ Period: 2017–2023
 
 ### Dataset Summary
 
-- Records: 62,516
+- Rows: 62,516
 - Columns: 12
 
 ### Features
